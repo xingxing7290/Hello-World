@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T11:15:28.105Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.5.3" etag="K4AUYYUt4OX5GWpSXCNu" type="github"><diagram id="K4yGt1C2GJqgpi1UTneV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-01T11:42:55.898Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wIvpyLwwyne6XQntZL8y" version="14.5.3" type="github">
+  <diagram id="K4yGt1C2GJqgpi1UTneV" name="第 1 页">
+    <mxGraphModel dx="1424" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FQEMu88v7grN8G_3xCds-3" value="视频监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-4" value="智慧控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-5" value="数据可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413.5" y="350" as="sourcePoint" />
+            <mxPoint x="413.5" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413.5" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-8" value="LoRa自组织网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-9" value="光照强度监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413.5" y="575" as="sourcePoint" />
+            <mxPoint x="413.5" y="455" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413.5" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-11" value="水位监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-12" value="监控摄像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-13" value="温湿度监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-14" value="感知层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-15" value="传输层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEMu88v7grN8G_3xCds-16" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
