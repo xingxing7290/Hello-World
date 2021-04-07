@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T08:36:43.124Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="n0ZSjGj7kVJ-n2Ywr1k7" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T08:47:03.805Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yYG_a9EOWObULlZQ0Clj" version="14.5.8" type="github">
   <diagram id="3NkLJo6TJVKmp-w63WLC" name="第 1 页">
-    <mxGraphModel dx="660" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="319" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-1" value="交流供电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PAe-5uyCxa2XsL8ZQy4g-2" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,12 +14,12 @@
           <mxGeometry x="40" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PAe-5uyCxa2XsL8ZQy4g-6" value="存储模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="245" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-7" value="蓝牙或Wifi模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="395" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-7" value="蓝牙或WIFI模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="395" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PAe-5uyCxa2XsL8ZQy4g-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="304.29" y="514" as="sourcePoint" />
             <mxPoint x="304.29" y="450" as="targetPoint" />
@@ -31,21 +28,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PAe-5uyCxa2XsL8ZQy4g-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="454.29" y="514" as="sourcePoint" />
             <mxPoint x="454.29" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PAe-5uyCxa2XsL8ZQy4g-1" target="PAe-5uyCxa2XsL8ZQy4g-2">
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PAe-5uyCxa2XsL8ZQy4g-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="260" as="sourcePoint" />
-            <mxPoint x="430" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="404.28999999999996" as="sourcePoint" />
+            <mxPoint x="240" y="404" as="sourcePoint" />
             <mxPoint x="160" y="404.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -53,6 +44,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.29" y="300" as="sourcePoint" />
             <mxPoint x="379.29" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-17" value="交流供电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAe-5uyCxa2XsL8ZQy4g-18" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.65999999999997" y="180" as="sourcePoint" />
+            <mxPoint x="379.65999999999997" y="240.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
