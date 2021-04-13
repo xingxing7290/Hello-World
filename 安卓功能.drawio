@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T03:16:46.152Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.5.10" etag="nFvvlVilJiGzroTM50Uo" type="github"><diagram id="mzVWiCq13x5794WQ89tT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T03:31:02.918Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Nx9zqlnZfssICCFbUana" version="14.5.10" type="github">
+  <diagram id="mzVWiCq13x5794WQ89tT" name="第 1 页">
+    <mxGraphModel dx="1424" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-1" value="密码登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-2" value="智慧养殖场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.5" y="150" as="sourcePoint" />
+            <mxPoint x="199.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-4" value="环境信息显示&lt;br&gt;及设备控制界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-5" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.5" y="260" as="sourcePoint" />
+            <mxPoint x="199.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-9" value="视频监控界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="199.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="530" as="sourcePoint" />
+            <mxPoint x="199.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-18" value="备忘录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-19" value="" style="endArrow=none;html=1;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Fr-T8oHPkit4zuUn3JQ-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="200" as="sourcePoint" />
+            <mxPoint x="690" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-20" value="" style="endArrow=none;html=1;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Fr-T8oHPkit4zuUn3JQ-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="690" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-21" value="" style="endArrow=none;html=1;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Fr-T8oHPkit4zuUn3JQ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-22" value="" style="endArrow=none;html=1;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Fr-T8oHPkit4zuUn3JQ-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="530" as="sourcePoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-23" value="设置登录账号密码，防止信息丢失。" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="341" y="200" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-25" value="可通过手机实时观察养殖场环境信息，并可通过手机远程控制养殖场内设备。可设置为智能看管模式，自动根据环境控制设备。" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-26" value="通过连接高清网络摄像头实时可对养殖场进行监控，同时可设置物体移动报警检测。" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fr-T8oHPkit4zuUn3JQ-27" value="可让养殖场主根据养殖场情况及动物情况进行文字记录，进行备忘。" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="341" y="530" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
