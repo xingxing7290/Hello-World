@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T06:08:38.820Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.5.10" etag="8QUBS-MFarOTopVXTxiB" type="github"><diagram id="R7BtUA1WQ9441O-jFUfQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T06:13:26.016Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zXD6g53jtS4LOPFFoYjh" version="14.5.10" type="github">
+  <diagram id="R7BtUA1WQ9441O-jFUfQ" name="第 1 页">
+    <mxGraphModel dx="462" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SU73agc7I5z4mH-BUTAf-1" value="交流供电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-2" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-3" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.5" y="180" as="sourcePoint" />
+            <mxPoint x="279.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-4" value="核心控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-7" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.5" y="270" as="sourcePoint" />
+            <mxPoint x="279.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-8" value="LoRa模块&lt;br&gt;（无线发送）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-9" value="存储模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="215" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-10" value="蓝牙或&lt;br&gt;WiFi模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="sourcePoint" />
+            <mxPoint x="140" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-13" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269.5" y="430" as="sourcePoint" />
+            <mxPoint x="269.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU73agc7I5z4mH-BUTAf-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.5" y="430" as="sourcePoint" />
+            <mxPoint x="404.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
