@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T08:36:57.192Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WSAHcBrluem05RIji8nJ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T08:38:59.799Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="K8jEYykDqancZxh4UnLv" version="14.8.4" type="github">
   <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
-    <mxGraphModel dx="230" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="GTaibQTKU4__gtefQqnn-4" value="智慧养殖系统APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="310" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-5" value="用户登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="310" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-6" value="功能选择界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="315" y="260" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-7" value="提醒备忘功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="80" height="30" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="605" y="550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-14" value="登录验证功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="115" height="30" as="geometry" />
+          <mxGeometry x="480" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-15" value="找回密码功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-17" value="液位数据显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="400" width="90" height="30" as="geometry" />
@@ -63,25 +63,25 @@
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-31" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="170" as="targetPoint" />
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-33" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GTaibQTKU4__gtefQqnn-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="170" as="sourcePoint" />
-            <mxPoint x="475" y="170" as="targetPoint" />
+            <mxPoint x="450" y="190" as="sourcePoint" />
+            <mxPoint x="475" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="170" />
+              <mxPoint x="450" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-35" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=-0.003;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GTaibQTKU4__gtefQqnn-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="240" as="sourcePoint" />
-            <mxPoint x="510" y="210" as="targetPoint" />
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="510" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="240" />
+              <mxPoint x="450" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,13 +184,13 @@
         <mxCell id="GTaibQTKU4__gtefQqnn-54" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GTaibQTKU4__gtefQqnn-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="190" as="sourcePoint" />
-            <mxPoint x="370" y="150" as="targetPoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-55" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369.77" y="260" as="sourcePoint" />
-            <mxPoint x="369.77" y="220" as="targetPoint" />
+            <mxPoint x="370" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-57" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
@@ -231,8 +231,8 @@
         </mxCell>
         <mxCell id="GTaibQTKU4__gtefQqnn-65" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="204.92000000000002" as="sourcePoint" />
-            <mxPoint x="450" y="205" as="targetPoint" />
+            <mxPoint x="430" y="224.71" as="sourcePoint" />
+            <mxPoint x="450" y="224.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
