@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T03:12:36.342Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7srdo69ksP9MawpeQC-8" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T03:13:48.490Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m_9X0BTOovEXhUk0SPXB" version="16.2.2" type="github">
   <diagram id="FZaA0Y9zHgFrD0MVzN2H" name="Page-1">
-    <mxGraphModel dx="1295" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2589" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,8 +33,7 @@
             <mxPoint x="161.48000000000002" y="552.6599999999999" as="sourcePoint" />
             <mxPoint x="180" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="480" />
-              <mxPoint x="160" y="430" />
+              <mxPoint x="192" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="570" width="320" height="140" as="geometry" />
+          <mxGeometry x="570" y="560" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-43" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="570" width="60" height="30" as="geometry" />
@@ -63,27 +62,27 @@
           <mxGeometry x="740" y="660" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="560" width="320" height="140" as="geometry" />
+          <mxGeometry x="40" y="555" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-49" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="139.5" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-50" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="600" width="111" height="30" as="geometry" />
+          <mxGeometry x="69.5" y="595" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-51" value="传感器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="650" width="111" height="30" as="geometry" />
+          <mxGeometry x="69.5" y="645" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-52" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="179.5" y="600" width="111" height="30" as="geometry" />
+          <mxGeometry x="210" y="595" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxq1pLhwyKrHwR5l2XSb-53" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="179.5" y="650" width="111" height="30" as="geometry" />
+          <mxGeometry x="210" y="645" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qxq1pLhwyKrHwR5l2XSb-43">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="430" as="sourcePoint" />
-            <mxPoint x="670" y="380" as="targetPoint" />
+            <mxPoint x="730" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="730" y="430" />
             </Array>
