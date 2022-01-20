@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T03:13:48.490Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m_9X0BTOovEXhUk0SPXB" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T06:30:44.655Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="55mszSYDCLVm8kGTPUkr" version="16.4.2" type="github">
   <diagram id="FZaA0Y9zHgFrD0MVzN2H" name="Page-1">
-    <mxGraphModel dx="2589" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2083" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-2" value="LoRa网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-2" value="LoRa网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-3" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-3" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329.5" y="400" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-4" value="WiFi模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-4" value="WiFi模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329.5" y="450" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-5" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-5" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="400" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-6" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-6" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="450" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-32" value="上位机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-32" value="上位机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="240" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-34" value="高清网络摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-34" value="高清网络摄像头" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.364;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qxq1pLhwyKrHwR5l2XSb-49" target="qxq1pLhwyKrHwR5l2XSb-1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.364;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qxq1pLhwyKrHwR5l2XSb-49" target="qxq1pLhwyKrHwR5l2XSb-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="161.48000000000002" y="552.6599999999999" as="sourcePoint" />
             <mxPoint x="180" y="630" as="targetPoint" />
@@ -37,49 +37,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qxq1pLhwyKrHwR5l2XSb-32" target="qxq1pLhwyKrHwR5l2XSb-34">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qxq1pLhwyKrHwR5l2XSb-32" target="qxq1pLhwyKrHwR5l2XSb-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="280" as="sourcePoint" />
             <mxPoint x="600" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="560" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-43" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-43" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-44" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-44" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="599.5" y="610" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-45" value="传感器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-45" value="传感器模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="599.5" y="660" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-46" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-46" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="610" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-47" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-47" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="660" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="555" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-49" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-49" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-50" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-50" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="595" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-51" value="传感器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-51" value="传感器模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="645" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-52" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-52" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="595" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-53" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-53" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="645" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="430" as="sourcePoint" />
             <mxPoint x="730" y="560" as="targetPoint" />
@@ -88,10 +88,100 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxq1pLhwyKrHwR5l2XSb-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qxq1pLhwyKrHwR5l2XSb-56" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="360" as="sourcePoint" />
             <mxPoint x="470" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="410" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-2" value="LoRa网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-3" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1439.5" y="460" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-4" value="WiFi模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1439.5" y="510" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-5" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1439.5" y="560" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-6" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1439.5" y="610" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="710" width="172" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-8" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-9" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1219.5" y="760" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-10" value="传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220.5" y="810" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-11" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1219.5" y="860" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-12" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1219.5" y="910" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="710" width="172" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-14" value="LoRa节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-15" value="LoRa无线传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1649.5" y="760" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-16" value="传输模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650.5" y="810" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-17" value="继电器模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1649.5" y="860" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-18" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1649.5" y="910" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-19" value="上位机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-20" value="高清网络摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.458;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="no8vyCPc2r_JGWxZV9Pf-7" target="no8vyCPc2r_JGWxZV9Pf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="700" as="sourcePoint" />
+            <mxPoint x="1290" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="no8vyCPc2r_JGWxZV9Pf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="710" as="sourcePoint" />
+            <mxPoint x="1590" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="no8vyCPc2r_JGWxZV9Pf-1" target="no8vyCPc2r_JGWxZV9Pf-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="350" as="sourcePoint" />
+            <mxPoint x="1500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="no8vyCPc2r_JGWxZV9Pf-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="no8vyCPc2r_JGWxZV9Pf-19" target="no8vyCPc2r_JGWxZV9Pf-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="280" as="sourcePoint" />
+            <mxPoint x="1630" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
